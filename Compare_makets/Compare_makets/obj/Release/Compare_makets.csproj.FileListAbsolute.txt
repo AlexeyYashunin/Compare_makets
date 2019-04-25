@@ -1,0 +1,10 @@
+C:\Users\YashuninAM\Desktop\Compare_makets\Compare_makets\Compare_makets\bin\Release\Compare_makets.exe.config
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\bin\Release\Compare_makets.exe.config
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\bin\Release\[Kill]Handle\handle.exe
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\bin\Release\Compare_makets.exe
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\bin\Release\Compare_makets.pdb
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\obj\Release\Compare_makets.Form1.resources
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\obj\Release\Compare_makets.Properties.Resources.resources
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\obj\Release\Compare_makets.csproj.GenerateResource.Cache
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\obj\Release\Compare_makets.exe
+C:\Users\YashuninAM\Desktop\[Transfer]Compare_makets\Compare_makets\Compare_makets\obj\Release\Compare_makets.pdb
